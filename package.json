@@ -86,5 +86,8 @@
     "hooks": {
       "pre-commit": "lint-staged"
     }
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-mention": "^11.0.0"
   }
 }
